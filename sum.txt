@@ -2,3 +2,7 @@ int a ;
 cin>>a;
 cout<<a;
 kzbkjvbhalhvbalehb
+
+int multiply ;
+cin>>a>>b>>c;
+a*b*c*d;cout<<"this;
