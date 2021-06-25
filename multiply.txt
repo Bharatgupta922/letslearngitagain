@@ -1,0 +1,3 @@
+t multiply ;
+cin>>a>>b>>c;
+a*b*c*d;cout<<"this;
